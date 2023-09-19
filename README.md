@@ -1,2 +1,2 @@
-# rusalo
+# main doc
 docs
